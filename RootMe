@@ -1,0 +1,7 @@
+ nmap scan - nmap 10.10.227.63 
+*RESULT*
+22/tcp open ssh
+80/tcp open http
+ports open 20/80
+*VERSION OF APACHE2*
+80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
